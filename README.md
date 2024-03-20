@@ -7,4 +7,5 @@ Add your options to the application and let Javascript decide for you.
 I used Javascript in the decision system of this application, which I designed using HTML5 and CSS.
 
 <h2>Screenshot</h2>
+
 ![](/1.gif)
